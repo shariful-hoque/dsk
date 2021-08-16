@@ -1,0 +1,61 @@
+/************************************** 
+            Header Part Start
+***************************************/
+.header{
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(79,52,220,1) 70%, rgba(136,53,222,1) 100%);
+    padding: 80px 0;
+}
+
+.banner-left h2{
+    color: #fff;
+    font-size: 48px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+}
+
+.banner-left h4{
+    color: #fff;
+    font-size: 22px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    font-style: italic;
+}
+
+.banner-right-text {
+    line-height: 2rem;
+}
+
+/************************************** 
+            Header Part End
+***************************************/
+
+#covid-19{
+    padding: 80px 0;
+}
+
+.covid-19-header{
+    color: #2D25A0;
+    font-size: 48px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+}
+
+.covid-pera p{
+    color: #565656;
+    font-size: 17px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.covid-note{
+    font-weight: 700;
+    color: #8635DE;
+    font-size: 22px;
+    font-style: italic;
+}
+
+.covid-img img{
+    padding: 50px 0 0 0;
+    width: 80%;
+    height: 80%;
+}
